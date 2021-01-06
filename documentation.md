@@ -11,7 +11,7 @@ Academic Year 2020-2021
 
 
 Cláudio Gregório Costa
-14708361
+Student Number: 14708361
 https://mytime-ab241.web.app/login
 https://github.com/claudiorcosta/mytime.git
 myTime 
@@ -43,9 +43,13 @@ After analysing all the questions that were answered by the participants it is p
 On a personal level, it is possible to conclude that there is a good satisfaction level towards the final product, even though there is still some doubt if an application like this one will help seek a healthier mental health, it is known that this topic takes time to improve and an application like the one that it was developed might help improve it and help the person that it is using the application to manage their time and tasks, but when it comes to the design of the same it is known that it should present a better design theme, which would led to a higher level regarding the satisfaction towards the final product.
 # Appendices
 ## Appendix 1 – User Story
-	User 1	User 2
+	User 2
 Goal	Manage tasks that need to be completed	Find ways to improve mental health
-Result	Allows to manage all the time and what needs to be done first	Allows to not only improve mental health but also other aspects of life in a personal aspect
+Result	Allows to manage all the time and what needs to be done first	
+	User 2
+Goal	Find ways to improve mental health
+Result	Allows to manage all the time and what needs to be done first	
+	Allows to not only improve mental health but also other aspects of life in a personal aspect
 ## Appendix 2 – Usability testing Questions
 1.	Do you believe that this application could help a student achieve a healthy mental health?
 2.	Are the elements easy to be find and is it easy to understand what is the functionality of each method?
