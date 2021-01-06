@@ -1,6 +1,30 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[myTime](https://mytime-ab241.web.app/login) was developed with the help of reactjs and Firebase.
+
+## Dependencies installed
+### `npm install`
+[npm install](https://docs.npmjs.com/cli/v6/commands/npm-install) it will install all the packages that are dependent on that package and it will install it on the node modules folder
+### `npm install --save-dev babel-plugin-styled-components`
+Installing the [Babel](https://www.npmjs.com/package/babel-plugin-styled-components) plugin will
+### `npm install --save styled-components`
+By installing the [styled-components](https://styled-components.com/docs) it will be possible to use CSS code in order to style the components that are going to be used in the application
+### `npm install --save-dev react-app-rewired customize-cra`
+[customize-cra](https://github.com/arackaf/customize-cra) Allows to modify the objects that are present in the create-react-app when importing the functions from this library
+### `npm install react-router-dom`
+[react-router](https://www.npmjs.com/package/react-router) Despite providing the router functionality, there is two different packages that need to be installed based on the type of application being created, where in this case it was react-router-dom, given that it was a web application
+### `npm install react-hook-form`
+[react-hook-form](https://www.npmjs.com/package/react-hook-form) It is going to facilitate the way forms are going to be validated in the application 
+### `npm install yup`
+It will install [Yup](https://www.npmjs.com/package/yup) which is a JavaScript schema builder that it will parse and validate values.
+### `npm install @hookform/resolvers`
+With the same goal as Yup, [@hookform/resolvers](https://developer.aliyun.com/mirror/npm/package/@hookform/resolvers) is going to perform validation in the forms present in the applications 
+### `npm install firebase`
+Installing [Firebase](https://www.npmjs.com/package/firebase) it will allow the use of multiple functions, such as the Cloud firestore and the Firebase Authentication 
+### `npm install -g firebase-tools`
+[firebase-tools](https://www.npmjs.com/package/firebase-tools/v/6.8.0) was installed in order to host the application with the help of the Firebase CLI
+### `npm install react-social-icons --save-dev`
+This package will retrieve a set of [social icons](https://www.npmjs.com/package/react-social-icons) when installing it
 
 ## Available Scripts
 
@@ -28,43 +52,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
