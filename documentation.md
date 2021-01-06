@@ -44,11 +44,11 @@ On a personal level, it is possible to conclude that there is a good satisfactio
 # Appendices
 ## Appendix 1 – User Story
 ### User 1
-Goal	Manage tasks that need to be completed	Find ways to improve mental health
-Result	Allows to manage all the time and what needs to be done first	
+#### Goal	Manage tasks that need to be completed	Find ways to improve mental health
+#### Result	Allows to manage all the time and what needs to be done first	
 ### User 2
-Goal	Find ways to improve mental health
-Result	Allows to manage all the time and what needs to be done first	
+#### Goal	Find ways to improve mental health
+#### Result	Allows to manage all the time and what needs to be done first	
 	Allows to not only improve mental health but also other aspects of life in a personal aspect
 ## Appendix 2 – Usability testing Questions
 1.	Do you believe that this application could help a student achieve a healthy mental health?
