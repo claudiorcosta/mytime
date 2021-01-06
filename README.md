@@ -6,7 +6,7 @@
 ### `npm install`
 [npm install](https://docs.npmjs.com/cli/v6/commands/npm-install) it will install all the packages that are dependent on that package and it will install it on the node modules folder
 ### `npm install --save-dev babel-plugin-styled-components`
-Installing the [Babel](https://www.npmjs.com/package/babel-plugin-styled-components) plugin will
+Installing the [Babel](https://www.npmjs.com/package/babel-plugin-styled-components) plugin will allow a better debbuging of the styled components that make the application
 ### `npm install --save styled-components`
 By installing the [styled-components](https://styled-components.com/docs) it will be possible to use CSS code in order to style the components that are going to be used in the application
 ### `npm install --save-dev react-app-rewired customize-cra`
