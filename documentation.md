@@ -1,29 +1,13 @@
 # Cover Page
 ### School of Media Arts and Technology
-
-
-
 ### BSc (Hons) Computing
-
-
-
 ### Academic Year 2020-2021
-
-
 ### Name: Cláudio Gregório Costa
 ### Student Number: 14708361
 ### Hosted website: https://mytime-ab241.web.app/login
 ### Git Repository: https://github.com/claudiorcosta/mytime.git
 ### myTime 
-### Assignment 2
-
 ### Contemporary Web Applications (COM623)
-
-
-
-
-
-
 ### Tutor: Joe Appleton 								DATE 06th January 2020
 # Introduction
 The following assessment is a follow up of the first assessment developed for the module of Contemporary Web Applications, where the goal was to try and find what was a problem that students usually had while they were at university and find a solution for that specific problem. After that assignment was finished it was concluded that one of the problems that students have is related with mental health but also with managing their time, where both can be related since a poor mental health can lead to a student not being able to manage their time in the best way possible to them in order to achieve academic success. The possible solution found to try and solve this problem was by creating an application that allows a user to manage the tasks that are in need of being completed and another function that allows users to see five steps to achieve a better state related with their mental health, by seeing the details related with each task.
