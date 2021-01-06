@@ -48,8 +48,8 @@ On a personal level, it is possible to conclude that there is a good satisfactio
 #### Result	Allows to manage all the time and what needs to be done first	
 ### User 2
 #### Goal	Find ways to improve mental health
-#### Result	Allows to manage all the time and what needs to be done first	
-	Allows to not only improve mental health but also other aspects of life in a personal aspect
+#### Result	Allows to not only improve mental health but also other aspects of life in a personal aspect	
+	
 ## Appendix 2 – Usability testing Questions
 1.	Do you believe that this application could help a student achieve a healthy mental health?
 2.	Are the elements easy to be find and is it easy to understand what is the functionality of each method?
