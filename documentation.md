@@ -14,8 +14,8 @@
 ## Student Number: 14708361
 ## https://mytime-ab241.web.app/login
 ## https://github.com/claudiorcosta/mytime.git
-## myTime 
-## Assignment 2
+### myTime 
+### Assignment 2
 
 ## Contemporary Web Applications (COM623)
 
